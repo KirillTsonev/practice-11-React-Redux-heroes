@@ -21,7 +21,7 @@ const filtersSlice = createSlice({
     initialState,
     reducers: {
         activeFilterChanged: (state, action) => {
-            filtersAdapter.setOne(state, action.payload)
+            state.activeFilter = action.payload
         },
     }, 
     extraReducers: (builder) => {
