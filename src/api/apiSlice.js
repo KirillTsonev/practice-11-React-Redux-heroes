@@ -2,16 +2,16 @@ import {createApi, fetchBaseQuery} from '@reduxjs/toolkit/query/react';
 
 export const apiSlice = createApi({
     reducerPath: 'api',
-    baseQuery: fetchBaseQuery({baseUrl: 'http://localhost:3001'}),
+    baseQuery: fetchBaseQuery({baseUrl: 'https://6348588d0b382d796c6fde8e.mockapi.io'}),
     tagTypes: ['Heroes'],
     endpoints: builder => ({
         getHeroes: builder.query({
-            query: () => '/heroes',
+            query: () => '/hero_cards/',
             providesTags: ['Heroes']
         }),
         createHero: builder.mutation({
             query: hero => ({
-                url: '/heroes',
+                url: '/hero_cards/',
                 method: 'POST',
                 body: hero
             }),
@@ -19,7 +19,7 @@ export const apiSlice = createApi({
         }),
         deleteHero: builder.mutation({
             query: id => ({
-                url: `/heroes/${id}`,
+                url: `/hero_cards/${id}`,
                 method: 'DELETE'
             }),
             invalidatesTags: ['Heroes']
