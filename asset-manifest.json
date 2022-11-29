@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/practice-11-React-Redux-heroes/static/css/main.fbd5ccb4.chunk.css",
-    "main.js": "/practice-11-React-Redux-heroes/static/js/main.0884381e.chunk.js",
-    "main.js.map": "/practice-11-React-Redux-heroes/static/js/main.0884381e.chunk.js.map",
+    "main.js": "/practice-11-React-Redux-heroes/static/js/main.30fde62f.chunk.js",
+    "main.js.map": "/practice-11-React-Redux-heroes/static/js/main.30fde62f.chunk.js.map",
     "runtime-main.js": "/practice-11-React-Redux-heroes/static/js/runtime-main.c2a8feb6.js",
     "runtime-main.js.map": "/practice-11-React-Redux-heroes/static/js/runtime-main.c2a8feb6.js.map",
     "static/css/2.3c19f40d.chunk.css": "/practice-11-React-Redux-heroes/static/css/2.3c19f40d.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.3c19f40d.chunk.css",
     "static/js/2.7883c6c8.chunk.js",
     "static/css/main.fbd5ccb4.chunk.css",
-    "static/js/main.0884381e.chunk.js"
+    "static/js/main.30fde62f.chunk.js"
   ]
 }
