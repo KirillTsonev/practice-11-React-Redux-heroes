@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/practice-11-React-Redux-heroes/static/css/main.fbd5ccb4.chunk.css",
+    "main.js": "/practice-11-React-Redux-heroes/static/js/main.0884381e.chunk.js",
+    "main.js.map": "/practice-11-React-Redux-heroes/static/js/main.0884381e.chunk.js.map",
+    "runtime-main.js": "/practice-11-React-Redux-heroes/static/js/runtime-main.c2a8feb6.js",
+    "runtime-main.js.map": "/practice-11-React-Redux-heroes/static/js/runtime-main.c2a8feb6.js.map",
+    "static/css/2.3c19f40d.chunk.css": "/practice-11-React-Redux-heroes/static/css/2.3c19f40d.chunk.css",
+    "static/js/2.7883c6c8.chunk.js": "/practice-11-React-Redux-heroes/static/js/2.7883c6c8.chunk.js",
+    "static/js/2.7883c6c8.chunk.js.map": "/practice-11-React-Redux-heroes/static/js/2.7883c6c8.chunk.js.map",
+    "index.html": "/practice-11-React-Redux-heroes/index.html",
+    "static/css/2.3c19f40d.chunk.css.map": "/practice-11-React-Redux-heroes/static/css/2.3c19f40d.chunk.css.map",
+    "static/css/main.fbd5ccb4.chunk.css.map": "/practice-11-React-Redux-heroes/static/css/main.fbd5ccb4.chunk.css.map",
+    "static/js/2.7883c6c8.chunk.js.LICENSE.txt": "/practice-11-React-Redux-heroes/static/js/2.7883c6c8.chunk.js.LICENSE.txt",
+    "static/media/app.scss": "/practice-11-React-Redux-heroes/static/media/hero_bg.0540b794.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2a8feb6.js",
+    "static/css/2.3c19f40d.chunk.css",
+    "static/js/2.7883c6c8.chunk.js",
+    "static/css/main.fbd5ccb4.chunk.css",
+    "static/js/main.0884381e.chunk.js"
+  ]
+}
